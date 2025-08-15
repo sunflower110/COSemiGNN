@@ -45,9 +45,8 @@ To use the Elliptic and Elliptic++ datasets:
 * Elliptic: available upon request at https://www.kaggle.com/datasets/ellipticco/elliptic-data-set/data
 * Elliptic++: available at the GitHub repository https://github.com/git-disl/EllipticPlusPlus
 
-Please follow their respective licenses and data usage agreements. Place the downloaded files under the data/ directory.
-
-Run data_clear.py to clean up the missing values.You can then inspect the cleaned data.
+  Please follow their respective licenses and data usage agreements. Place the downloaded files under the data/ directory.
+  Run data_clear.py to clean up the missing values.You can then inspect the cleaned data.
 ---
 
 #### Train
